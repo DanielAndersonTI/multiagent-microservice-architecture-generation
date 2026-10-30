@@ -138,8 +138,3 @@ text
 
 Este `README.md` agora reflete com precisão o escopo completo do projeto, os dois modos de operação (Zero‑Shot e Few‑Shot), a consolidação assimétrica, os resultados obtidos e a estrutura de diretórios atualizada.
 
----
-
-## License
-
-The source code of this repository is released under the **MIT License**. See the [`LICENSE`](LICENSE) file for the full text.
