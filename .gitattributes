@@ -1,0 +1,7 @@
+# Subject systems used as experimental input (third-party)
+PetClinic/** linguist-vendored
+Bookstore/** linguist-vendored
+
+# Reproduction artefacts and documentation
+Artefatos_Reproducao/** linguist-documentation
+*.pdf linguist-documentation
